@@ -38,6 +38,36 @@ int main() {
     printf("Informe o numero de pontos turisticos da cidade escolhida: \n");
     scanf("%d", &pontos_turisticos);
 
+    printf("PRIMEIRA CIDADE\n");
+    printf("O codigo da cidade e: %d \n", codigo_cidade);
+    printf("Nome da cidade: %s \n" , nome);
+    printf("Numero de habitantes: %d \n", populacao);
+    printf("Area ocupacional: %f \n", area_da_cidade);
+    printf("PIB da cidade: %d \n", PIB);
+    printf("Numero de pontos turisticos: %d\n", pontos_turisticos);
+printf("###################################################################");
+    
+    printf("SEGUNDA CIDADE\n");
+    printf("O codigo da cidade e: %d \n", codigo_cidade);
+    printf("Nome da cidade: %s \n" , nome);
+    printf("Numero de habitantes: %d \n", populacao);
+    printf("Area ocupacional: %f \n", area_da_cidade);
+    printf("PIB da cidade: %d \n", PIB);
+    printf("Numero de pontos turisticos: %d\n", pontos_turisticos);
+
+printf("###################################################################");   
+    
+    printf("TERCEIRA CIDADE\n");
+    printf("O codigo da cidade e: %d \n", codigo_cidade);
+    printf("Nome da cidade: %s \n" , nome);
+    printf("Numero de habitantes: %d \n", populacao);
+    printf("Area ocupacional: %f \n", area_da_cidade);
+    printf("PIB da cidade: %d \n", PIB);
+    printf("Numero de pontos turisticos: %d\n", pontos_turisticos);
+
+printf("###################################################################");
+    
+    printf("QUARTA CIDADE\n");
     printf("O codigo da cidade e: %d \n", codigo_cidade);
     printf("Nome da cidade: %s \n" , nome);
     printf("Numero de habitantes: %d \n", populacao);
